@@ -1,0 +1,6 @@
+2021-09-16 15:27:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM LANGUAGES ID WELCOMEMSG[*] CODE"; SQL statement:
+SELECT * FROM LANGUAGES ID WELCOMEMSG CODE [42000-200]
+2021-09-16 15:27:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "CODE[*]"; expected "COMMIT, CREATE, CALL, CHECKPOINT, COMMENT"; SQL statement:
+CODE [42001-200]
